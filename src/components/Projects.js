@@ -5,7 +5,7 @@ function Projects() {
   const projects = [
     {
       id: 1,
-      image: "https://placehold.co/400x300/a0aec0/ffffff?text=Project+1",
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2CdtGGLRVeSP2lmjWNZiNkc8m3AzF2AfNnA&s",
       title: "Web and animation: retro gadgets /",
       author: "Multiple Owners",
       views: "521",
@@ -13,7 +13,7 @@ function Projects() {
     },
     {
       id: 2,
-      image: "https://placehold.co/400x300/f6ad55/ffffff?text=Project+2",
+      image: "https://images.unsplash.com/photo-1597290282695-edc43d0e7129?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8YmFyfGVufDB8fDB8fHww",
       title: "The BAR.",
       author: "Multiple Owners",
       views: "534",
@@ -21,7 +21,7 @@ function Projects() {
     },
     {
       id: 3,
-      image: "https://placehold.co/400x300/667eea/ffffff?text=Project+3",
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLDfhEM2TQjWgKwY107tlJzSuXXPaAjtj5yg&s",
       title: "Maira Marques - Limited Edition",
       author: "Multiple Owners",
       views: "227",
@@ -29,7 +29,7 @@ function Projects() {
     },
     {
       id: 4,
-      image: "https://placehold.co/400x300/9f7aea/ffffff?text=Project+4",
+      image: "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/29758e199411679.6650d1000f383.jpeg",
       title: "BUMBUM: Queer music by Queer people",
       author: "Jun ioneda",
       views: "156",
@@ -37,7 +37,7 @@ function Projects() {
     },
     {
       id: 5,
-      image: "https://placehold.co/400x300/48bb78/ffffff?text=Project+5",
+      image: "https://img.freepik.com/premium-photo/attractive-illustration-magical-book-that-contains-fantastic-stories_1041269-2847.jpg",
       title: "Fantasy Book Illustrations",
       author: "Illustra Dreams",
       views: "1.1K",
@@ -45,7 +45,7 @@ function Projects() {
     },
     {
       id: 6,
-      image: "https://placehold.co/400x300/ecc94b/ffffff?text=Project+6",
+      image: "https://repository-images.githubusercontent.com/456963513/82528385-a73f-488f-9003-513321283a6b",
       title: "E-commerce Website",
       author: "Code Wizards",
       views: "1.3K",
@@ -53,7 +53,7 @@ function Projects() {
     },
     {
       id: 7,
-      image: "https://placehold.co/400x300/ed8936/ffffff?text=Project+7",
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlEPTDF4PFhRwYE0UyPlvlBcXB2jV3_cOvKA&s",
       title: "Architectural Visualization",
       author: "Vizualize Studio",
       views: "750",
@@ -61,7 +61,7 @@ function Projects() {
     },
     {
       id: 8,
-      image: "https://placehold.co/400x300/4299e1/ffffff?text=Project+8",
+      image: "https://i.ytimg.com/vi/c3abfWsQk-M/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBTPv69OYgt4XJUL6kfNYsoNJ7ryg",
       title: "Abstract Motion Reel",
       author: "Kinetic Arts",
       views: "1.0K",
@@ -69,7 +69,7 @@ function Projects() {
     },
     {
       id: 9,
-      image: "https://placehold.co/400x300/a0aec0/ffffff?text=Project+9",
+      image: "https://1064695605.rsc.cdn77.org/wp-content/uploads/Smart-Home-Device-Smart-Device.png",
       title: "Smart Home Device",
       author: "Innovate Products",
       views: "900",
@@ -105,7 +105,7 @@ function Projects() {
           UI/UX
         </Button>
         <Button variant="secondary" size="sm" className="rounded-pill d-flex align-items-center behance-pill">
-          <i className="bi bi-chevron-right"></i> {/* Chevron right for "more" pills */}
+          <i className="bi bi-chevron-right"></i> 
         </Button>
       </div>
 
