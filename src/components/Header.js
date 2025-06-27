@@ -151,7 +151,7 @@ function Header() {
             <Button variant="light" className="text-dark text-decoration-none rounded-0 border-0 fw-semibold behance-segment-button">
               People
             </Button>
-            <Dropdown as={InputGroup.Append} className="input-group-behance-dropdown">
+            <Dropdown className="input-group-behance-dropdown">
               <Dropdown.Toggle variant="light" id="more-dropdown" className="text-dark text-decoration-none dropdown-arrow-icon rounded-start-0 border-0 fw-semibold">
                 More
                 <i className="bi bi-chevron-down ms-1 small"></i>

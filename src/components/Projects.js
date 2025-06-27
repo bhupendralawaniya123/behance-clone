@@ -113,7 +113,7 @@ function Projects() {
       <Row xs={1} sm={2} lg={3} xl={4} className="g-4">
         {projects.map((project) => (
           <Col key={project.id}>
-            <Card className="h-100 shadow-sm border-0 rounded-lg overflow-hidden project-card-hover">
+            <Card className="h-100 shadow-sm border-0 rounded-1g overflow-hidden project-card-hover">
               <div className="position-relative overflow-hidden">
                 <Card.Img
                   variant="top"
